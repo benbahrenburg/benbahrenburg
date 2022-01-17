@@ -34,9 +34,15 @@
 <a href = 'https://www.linkedin.com/in/benjaminbahrenburg'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/bencoding'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/benbahrenburg'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<br/>
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=benbahrenburg&label=Profile%20views&color=0e75b6&style=flat" alt="benbahrenburg" /> </p>
 
 <h2> GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-![Metrics](https://metrics.lecoq.io/benbahrenburg?template=classic&config.timezone=America%2FToronto)
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benbahrenburg&show_icons=true&locale=en&layout=compact" alt="benbahrenburg" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=benbahrenburg&show_icons=true&bg_color=ffffff&hide_title=true&theme=vue" />
+</div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=benbahrenburg.benbahrenburg)
+
