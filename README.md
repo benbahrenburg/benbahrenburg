@@ -42,7 +42,7 @@
 
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benbahrenburg&show_icons=true&locale=en&layout=compact" alt="benbahrenburg" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=benbahrenburg&show_icons=true&bg_color=ffffff&hide_title=true&theme=default" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=benbahrenburg&show_icons=true&bg_color=ffffff&hide_title=true&theme=default&layout=compact" />
 </div>
 
 
