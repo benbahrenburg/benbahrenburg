@@ -7,7 +7,7 @@
         </samp>
 </h3>
 </p>
- I'm passionate about changing the status quo through technology.
+ I'm passionate about changing the world through technology.
 </div>
 
 <h2> About Me </h2>
