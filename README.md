@@ -7,7 +7,7 @@
         </samp>
 </h3>
 </p>
-<div size='20px'> Hi! My name is Ben Bahrenburg. Thank You for taking the time to view my GitHub Profile :smile: 
+「 I'm passionate about changing the status quo through technology.」
 </div>
 
 <h2> About Me </h2>
