@@ -35,10 +35,8 @@
 <a href = 'https://www.twitter.com/bencoding'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/benbahrenburg'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-
-
 <h2> GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-![Metrics](https://metrics.lecoq.io/benbahrenburg?template=classic&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/benbahrenburg?template=classic&base.community=0&base.metadata=0&config.timezone=America%2FLos_Angeles)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=benbahrenburg.benbahrenburg)
