@@ -1,9 +1,11 @@
 
-<h1> Nice to meet you, I'm < Ben/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=benbahrenburg.benbahrenburg)
-
+<!-- Intro  -->
+<h3 align="left">
+        <samp>&gt; Hey There! I am
+                <b><a target="_blank" href="https://bencoding.com/">Ben</a></b> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> 
+        </samp>
+</h3>
 </p>
 <div size='20px'> Hi! My name is Ben Bahrenburg. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
@@ -13,8 +15,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-
-- 👯 I’m looking to collaborate on OSS projects, publications, and video tutorials 
+- 👨‍💻👨‍💻 I’m looking to collaborate on OSS projects, publications, and video tutorials
 
 - 💬 Talk to me about JavaScript, Mobile, Machine Learning, and Open Source 
 
@@ -39,3 +40,5 @@
 <h2> GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 ![Metrics](https://metrics.lecoq.io/benbahrenburg?template=classic&config.timezone=America%2FToronto)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=benbahrenburg.benbahrenburg)
