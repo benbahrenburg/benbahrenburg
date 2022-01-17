@@ -2,12 +2,12 @@
 
 <!-- Intro  -->
 <h3 align="left">
-        <samp>&gt; Hey There! I am
+        <samp>&gt; Hi there! I am
                 <b><a target="_blank" href="https://bencoding.com/">Ben</a></b> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> 
         </samp>
 </h3>
 </p>
-「 I'm passionate about changing the status quo through technology.」
+ I'm passionate about changing the status quo through technology.
 </div>
 
 <h2> About Me </h2>
