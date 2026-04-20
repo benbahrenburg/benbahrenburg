@@ -4,7 +4,7 @@
 
 **Engineer and operator. Two decades in enterprise technology, spanning individual contribution, a consulting partnership, and platform leadership. Most recent chapter: the technology stand-up of a private-equity carve-out across 200+ apps and 5 clouds. Now building the guardrails, telemetry, and the foundations underneath enterprise agentic AI.**
 
-[bahrenburgs.com](https://bahrenburgs.com) · [bencoding.com](https://bencoding.com) · [LinkedIn](https://linkedin.com/in/benbahrenburg)
+[bahrenburgs.com](https://bahrenburgs.com) · [bencoding.com](https://bencoding.com) · [LinkedIn](https://www.linkedin.com/in/benjaminbahrenburg/)
 
 </div>
 
